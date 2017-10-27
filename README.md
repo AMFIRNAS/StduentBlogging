@@ -1,1 +1,1 @@
-# StduentBlogging
+# StduentBlogging.
